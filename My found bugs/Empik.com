@@ -17,6 +17,6 @@ Steps to reproduce bug:
 
 Expected result: Only a4 format notebook will show
 
-Acutal resultt: Shows 0 items available
+Acutal result: Shows 0 items available
 
 Additional information: The bug appears for each format - it shows 0 available products when filtered by Format. Without the filter, the products are available.
