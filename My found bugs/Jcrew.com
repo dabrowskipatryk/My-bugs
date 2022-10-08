@@ -14,7 +14,6 @@ Steps to reproduce bug:
 5. Scroll down to the Write a Review and click it
 6. Start typing your e-mail address
 
-
 Expected result: The user's email address should be centered in the email address field.
 
 Acutal result: The user's e-mail address in the user's e-mail address overlaps with the word e-mail address.
