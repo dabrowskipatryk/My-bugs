@@ -15,4 +15,4 @@ Steps to reproduce bug:
 
 Expected result: Links in the footer are spaced equally.
 
-Acutal resultt: Links in the footer are smashed (Disclaimers and Terms of Use) - it is to much space between them.
+Acutal result: Links in the footer are smashed (Disclaimers and Terms of Use) - it is to much space between them.
