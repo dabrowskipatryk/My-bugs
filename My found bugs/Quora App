@@ -11,11 +11,8 @@ Precondition: Installed Quora app on device
 1. Open Quora
 2. Tap "Zaloguj się adresem e-mail" (Register by e-mail)
 
+Expected result: The app give me posibility to type my e-mail and password to create account.
 
-Expected result: The app give me posibility to type my e-mail and password to create account
+Acutal result: The register page don't work and gives information - Czegoś brakuje, strona której szukasz, jest niedostępna (Something is missing, the page you are looking for is not available).
 
-
-Acutal resultt: The register page don't work and gives information - Czegoś brakuje, strona której szukasz, jest niedostępna (Something is missing, the page you are looking for is not available)
-
-
-Error message: Czegoś brakuje, strona której szukasz, jest niedostępna (Something is missing, the page you are looking for is not available)
+Error message: Czegoś brakuje, strona której szukasz, jest niedostępna (Something is missing, the page you are looking for is not available).
