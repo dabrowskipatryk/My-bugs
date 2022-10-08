@@ -12,6 +12,6 @@ Steps to reproduce bug:
 3. Press Enter after typing 'polo'
 4. Scroll the page
 
-Expected result: The Polo products will appear
+Expected result: The Polo products will appear.
 
-Acutal result: Irrelevant products not relating to polo appears as well
+Acutal result: Irrelevant products not relating to polo appears as well.
