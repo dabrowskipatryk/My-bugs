@@ -3,6 +3,7 @@ Empik.com	    05.09.2022
 System: Windows 10
 Przeglądarka: Opera, Google Chrome
 Miejsce błędu: Lista Produktów
+Typ błędu: Funkcjonalny
 Nazwa błędu: Wybranie formatu zeszytu nie wyszukuje produktów
 
 Kroki by zreprodukować błąd:
