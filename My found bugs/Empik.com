@@ -3,6 +3,7 @@ Empik.com     05.09.2022
 System: Windows 10
 Web browser: Opera, Google Chrome
 Bug place: Product List
+Bug type: Functional
 Bug name: Selecting the notebook format does not search for products
 
 Steps to reproduce bug:
