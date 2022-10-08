@@ -1,0 +1,22 @@
+ImmoScout24 APP     20.09.2022
+
+Device: Realme 8 Pro
+OS Version: Android 11
+Bug place: My Profile
+Bug type: Functional
+Bug name: Can't type more than 300 characters in 'Introduction'
+
+Steps to reproduce bug:
+Precondition: The user has logged in.
+1. Open ImmoScout24 application
+2. Tap 'Me'
+3. Tap 'Profile & documents'
+4. Tap 'Introduction'
+5. Tap 'Your text'
+6. Type more than 300 characters
+
+Expected result: I can type as much characters as i want if it is not described.
+
+Acutal resultt: I can only type 300 characters.
+
+Additional info: It seems to me that if there is a character limit of 300 then this should be described somewhere.
