@@ -15,8 +15,8 @@ Steps to reproduce bug:
 6. Choose filter for example: a4 210x297 (currently shows 256 items available)
 7. Click "Pokaż wyniki"
 
-Expected result: Only a4 format notebook will show
+Expected result: Only a4 format notebook will show.
 
-Acutal result: Shows 0 items available
+Acutal result: Shows 0 items available.
 
 Additional information: The bug appears for each format - it shows 0 available products when filtered by Format. Without the filter, the products are available.
