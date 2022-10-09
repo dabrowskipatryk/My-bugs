@@ -1,0 +1,15 @@
+Quora App     29.08.2022
+
+Urządzenie: Realme 8 Pro 
+Wersja oprogramowania: Android 11
+Miejsce błędu: Strona rejestracji
+Typ błędu: Funkcjonalny
+Nazwa błędu: Rejestracja za pomocą adresu e-mail nie działa
+
+Kroki by zreprodukować błąd:
+1. Otwórz aplikację Quora
+2. Kliknij "Zaloguj się adresem e-mail" 
+
+Oczekiwany rezultat: Aplikacja pozwala na zarejestrowanie się poprzez adres e-mail.
+
+Aktualny rezultat: Aplikacja nie pozwala na zarejestrowanie się poprzez adres e-mail i oddaje informacje - Czegoś brakuje, strona której szukasz, jest niedostępna.
