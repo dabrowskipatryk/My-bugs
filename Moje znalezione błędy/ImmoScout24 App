@@ -1,0 +1,22 @@
+ImmoScout24 App     20.09.2022
+
+Urządzenie: Realme 8 Pro
+Wersja oprogramowania: Android 11
+Miejsce błędu: Mój profil
+Typ błedu: Funkcjonalny
+Nazwa błędu: Nie można wpisać więcej niż 300 znaków w polu 'Introduction'
+
+Kroki by zreprodukować błąd:
+Warunki wstępne: Użytkownik jest zalogowany
+1. Otwórz aplikację ImmoScout24 
+2. Kliknij 'Me'
+3. Kliknij 'Profile & documents'
+4. Kliknij 'Introduction'
+5. Kliknij 'Your text'
+6. Wpisz więcej niż 300 znaków
+
+Oczekiwany rezultat: Aplikacja pozwala wpisać tyle znaków ile się chce jeśli nie jest to zdefiniowane.
+
+Aktualny rezultat: Nie można wpisać więcej niż 300 znkaów.
+
+Dodatkowe informacje: Limit 300 znaków powinien być w którymś miejscu zdefiniowany.
