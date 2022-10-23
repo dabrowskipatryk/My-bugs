@@ -1,0 +1,21 @@
+Olx.pl App    21.10.2022
+
+Urządzenie: Realme 8 Pro
+Wersja oprogramowania: Android 12
+Miejsce błędu: Strona płatności
+Typ błedu: Funkcjonalny
+Nazwa błędu: Wpisanie innych liter niż w nazwie banku przekierowuje do pustej strony
+
+Kroki by zreprodukować błąd:
+1. Otwórz aplikację 'OLX.pl'
+2. Kliknij 'Konto'
+3. Kliknij 'Portfel'
+4. Kliknij 'Uzupełnij portfel'
+5. Kliknij '5,00 zł'
+6. Kliknij 'Zamawiam i płacę (5,00 zł)'
+7. Kliknij 'E-przelew'
+8. Wpisz inne litery niż w nazwie banku, dla przykładu: 'kkk'
+
+Oczekiwany rezultat: Brak banków na liście.
+
+Aktualny rezultat: Następuje przekierowanie do pustej strony
