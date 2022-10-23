@@ -1,0 +1,22 @@
+ZARA App     21.10.2022
+
+System: Windows 10
+Web browser: Google Chrome
+Bug place: Product List
+Bug type: Functional
+Bug name: Selecting more filtres shows wrong items
+
+Steps to reproduce bug:
+1. Open App 'Zara'
+2. Tap 'Menu'
+3. Tap 'Koszulki Polo'
+4. Tap 'Filtry'
+5. Tap 'Typ artykułu' and chose 'Polo'
+6. Tap 'Kolor' and chose 'Białe' + 'Czarne'
+7. Tap 'Nadruk' and chose 'Paski'
+8. Tap 'Pokaż wyniki'
+9. Scroll down
+
+Expected result: White or black striped polos will show up.
+
+Acutal result: Various polo items in white and black show up.
