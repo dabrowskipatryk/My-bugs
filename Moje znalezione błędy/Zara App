@@ -1,0 +1,22 @@
+Zara App     21.10.2022
+
+Urządzenie: Realme 8 Pro
+Wersja oprogramowania: Android 12
+Miejsce błędu: Lista produktów 
+Typ błedu: Funkcjonalny
+Nazwa błędu: Wybranie większej ilości filtrów powoduje wyświetlenie niewłaściwych produktów
+
+Kroki by zreprodukować błąd:
+1. Otwórz aplikację'Zara'
+2. Kliknij 'Menu'
+3. Kliknij 'Koszulki Polo'
+4. Kliknij 'Filtry'
+5. Kliknij 'Typ artykułu' i wybierz 'Polo'
+6. Kliknij 'Kolor' i wybierz 'Białe' + 'Czarne'
+7. Kliknij 'Nadruk' i wybierz 'Paski'
+8. Kliknij 'Pokaż wyniki'
+9. Zjedź w dół
+
+Oczekiwany rezultat: Pojawią się koszulki polo w kolorze białym lub czarnym w paski.
+
+Aktualny rezultat: Pokazują się różne koszulki polo.
