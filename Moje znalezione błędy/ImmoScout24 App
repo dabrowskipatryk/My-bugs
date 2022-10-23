@@ -17,6 +17,6 @@ Warunki wstępne: Użytkownik jest zalogowany
 
 Oczekiwany rezultat: Aplikacja pozwala wpisać tyle znaków ile się chce jeśli nie jest to zdefiniowane.
 
-Aktualny rezultat: Nie można wpisać więcej niż 300 znkaów.
+Aktualny rezultat: Nie można wpisać więcej niż 300 znaków.
 
 Dodatkowe informacje: Limit 300 znaków powinien być w którymś miejscu zdefiniowany.
