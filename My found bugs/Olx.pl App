@@ -1,0 +1,21 @@
+Olx.pl APP     21.10.2022
+
+Device: Realme 8 Pro
+OS Version: Android 12
+Bug place: Payments site
+Bug type: Functional
+Bug name: Typing diffrent words than bank name redirects to empty site
+
+Steps to reproduce bug:
+1. Open App 'OLX.pl'
+2. Tap 'Konto' (Account)
+3. Tap 'Portfel' (Wallet)
+4. Tap 'Uzupełnij portfel' (Fill your wallet)
+5. Tap '5,00 zł'
+6. Tap 'Zamawiam i płacę (5,00 zł)' (Order and pay)
+7. Tap 'E-przelew' (E-transfer)
+8. Type something diffrent than bank name for example: 'kkk'
+
+Expected result: There is no bank results
+
+Acutal result: Im redirected to empty site
