@@ -1,0 +1,17 @@
+Sodastream.pl     20.11.2022
+
+System: Windows 10
+Web browser: Google Chrome
+Bug place: Product List Page
+Bug type: Functional
+Bug name: Impossible to reduce quantity of product
+
+1. Go to sodastream.pl
+2. Hover 'Sklep' and click 'Butelki'
+3. Click 'Kup' on '0,5 Litrowa Butelka z kolekcji My Only Bottle - Miętowy'
+4. Raise the quantity to 2 by clicking '+'
+5. Click '-'
+
+Expected result: The quantinty of product will reduce to 1.
+
+Acutal result: Nothing happens when you try to reduce quantity of product
